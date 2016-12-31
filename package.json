@@ -1,6 +1,6 @@
 {
   "name": "ritoplz-summoner",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get a random League of Legends summoner cover",
   "main": "index.js",
   "repository": {

@@ -29,6 +29,7 @@ Return a random url
 ## Related
 
 [ritoplz](https://github.com/ritoplz/ritoplz) - League of Legends Rankings
+
 [ritoplz-tier](https://github.com/bukinoshita/ritoplz-tier) - Get League of Legends tier information
 
 ## License

@@ -16,7 +16,7 @@ $ npm install --save ritoplz-summoner
 ```js
 const summonerCover = require('ritoplz-summoner')
 
-summonerCover
+summonerCover()
 // => https://ritoplz-summoner-cover.now.sh/leona.png
 ```
 
@@ -24,12 +24,11 @@ summonerCover
 
 ### summonerCover
 
-Return a random url
+Returns a random url
 
 ## Related
 
-[ritoplz](https://github.com/ritoplz/ritoplz) - League of Legends Rankings
-
+[ritoplz](https://github.com/ritoplz/ritoplz) - League of Legends Rankings<br/>
 [ritoplz-tier](https://github.com/bukinoshita/ritoplz-tier) - Get League of Legends tier information
 
 ## License

@@ -1,0 +1,24 @@
+{
+  "name": "ritoplz-summoner",
+  "version": "0.0.1",
+  "description": "Get a random League of Legends summoner cover",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/bukinoshita/ritoplz-summoner.git",
+    "type": "git"
+  },
+  "author": "Bu Kinoshita <bukinoshita@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ava": "^0.17.0",
+    "unique-random-array": "^1.0.0",
+    "xo": "^0.17.1"
+  },
+  "scripts": {
+    "test": "xo && ava -v"
+  },
+  "xo": {
+    "space": true,
+    "semicolon": false
+  }
+}

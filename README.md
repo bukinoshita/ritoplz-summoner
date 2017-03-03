@@ -2,6 +2,7 @@
 > Get a random League of Legends summoner cover
 
 [![Codeship Status for bukinoshita/ritoplz-summoner](https://app.codeship.com/projects/860225d0-b1b7-0134-1b43-1a4c0cdb2aa0/status?branch=master)](https://app.codeship.com/projects/193265)
+[![Build Status](https://travis-ci.org/bukinoshita/ritoplz-summoner.svg?branch=master)](https://travis-ci.org/bukinoshita/ritoplz-summoner)
 [![GitHub release](https://img.shields.io/github/release/bukinoshita/ritoplz-summoner.svg)](https://www.npmjs.com/package/ritoplz-summoner)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/bukinoshita/ritoplz-summoner/master/LICENSE)
 

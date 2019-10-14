@@ -12,7 +12,7 @@
   "dependencies": {
     "ava": "^0.17.0",
     "unique-random-array": "^1.0.0",
-    "xo": "^0.17.1"
+    "xo": "^0.25.0"
   },
   "scripts": {
     "test": "xo && ava -v"
